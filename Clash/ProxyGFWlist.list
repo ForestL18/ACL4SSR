@@ -5697,7 +5697,6 @@ IP-CIDR,220.181.174.34/32,no-resolve
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,akamaihd.net
 
 # Kakao Talk
 DOMAIN-SUFFIX,kakao.com
