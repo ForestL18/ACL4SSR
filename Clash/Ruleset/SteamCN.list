@@ -1,8 +1,5 @@
 # 内容：SteamCN
 # 数量：14条
-DOMAIN-SUFFIX,akamai.net
-DOMAIN-SUFFIX,akamaistream.net
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
