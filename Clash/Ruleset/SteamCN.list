@@ -2,7 +2,7 @@
 # 数量：14条
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
+#DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dota2.wmsj.cn
@@ -14,5 +14,4 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
