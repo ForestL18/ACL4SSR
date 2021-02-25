@@ -1,8 +1,8 @@
 # 内容：Steam
-# 数量：3条
+# 数量：6条
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,akamaihd.net
